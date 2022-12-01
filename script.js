@@ -17,8 +17,7 @@ function inputFilter(){
       card.removeAttribute('Style')
     }
   });
-
-}
+}}
 
   // if the filter is not empty
 
